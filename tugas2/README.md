@@ -57,8 +57,8 @@ Dibuat menggunakan bahasa Python dan library **NumPy** untuk perhitungan matriks
 2. Decrypt
 0. Selesai
 Pilih menu: 1
-Masukkan plaintext: HELLO
-Ciphertext: MFNCQ
+Masukkan plaintext: nina airlines
+Ciphertext: LONAYOGLLDOU
 
 ### Dekripsi
 === Hill Cipher Menu ===
@@ -66,6 +66,6 @@ Ciphertext: MFNCQ
 2. Decrypt
 0. Selesai
 Pilih menu: 2
-Masukkan ciphertext: MFNCQ
-Plaintext : HELLO
+Masukkan ciphertext: LONAYOGLLDOU
+Plaintext : NINAAIRLINES
 ![alt text](image.png)
