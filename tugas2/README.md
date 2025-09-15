@@ -1,4 +1,3 @@
-# 230004-Kripto25
 # Hill Cipher Program (Python)
 
 Program ini mengimplementasikan algoritma **Hill Cipher** untuk proses enkripsi dan dekripsi teks dengan kunci matriks.  
@@ -50,6 +49,7 @@ Dibuat menggunakan bahasa Python dan library **NumPy** untuk perhitungan matriks
                    [2, 5]])
 
 3. Program berjalan dalam loop hingga user memilih opsi 0.
+
 ## 📌 Contoh Penggunaan
 ### Enkripsi
 === Hill Cipher Menu ===
